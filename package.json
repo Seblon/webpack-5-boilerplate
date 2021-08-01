@@ -7,7 +7,7 @@
     "build": "webpack",
     "dev": "webpack serve"
   },
-  "keywords": [],
+  "keywords": [" Webpack 5", "Bootstrap 5", "babel", "sass", "boilerplate", "starter"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
