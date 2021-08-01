@@ -1,0 +1,8 @@
+// Import the scss needed from bootstrap
+@import "vendors/bootstrap";
+
+// Overriding bootstrap vars
+@import "abstracts/variables";
+
+/* My own imports */
+@import "base/general";
